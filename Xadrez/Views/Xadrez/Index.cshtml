@@ -1,1 +1,11 @@
-﻿
+﻿@model ViewModelXadrez
+
+<table>
+    <tr>
+
+        @foreach(var pecaBranca in Model.PecasBrancasObject.Peoes)
+        {
+            <td>@pecaBranca</td>
+        }
+    </tr>
+</table>

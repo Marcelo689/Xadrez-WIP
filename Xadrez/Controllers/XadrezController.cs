@@ -9,7 +9,7 @@ namespace Xadrez.Controllers
         {
             var viewModel = new ViewModelXadrez();
             viewModel.PreencherTabuleiro();
-            return View();
+            return View(viewModel);
         }
     }
 }

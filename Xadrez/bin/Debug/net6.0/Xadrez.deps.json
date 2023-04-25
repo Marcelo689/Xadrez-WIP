@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Xadrez/1.0.0": {
+        "dependencies": {
+          "Pieces": "1.0.0"
+        },
+        "runtime": {
+          "Xadrez.dll": {}
+        }
+      },
+      "Pieces/1.0.0": {
+        "runtime": {
+          "Pieces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xadrez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pieces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

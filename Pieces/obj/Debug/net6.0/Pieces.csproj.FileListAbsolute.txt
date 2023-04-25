@@ -1,0 +1,12 @@
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\bin\Debug\net6.0\Pieces.deps.json
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\bin\Debug\net6.0\Pieces.dll
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\bin\Debug\net6.0\Pieces.pdb
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.AssemblyInfo.cs
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.dll
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\refint\Pieces.dll
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\Pieces.pdb
+C:\Users\marce\Desktop\C#\Xadrez\Pieces\obj\Debug\net6.0\ref\Pieces.dll
